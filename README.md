@@ -16,8 +16,8 @@
 
 
 ## This is what you should see when you visit the landing page:
-[Screenshot of top half of the page](/module-1-challenge/assets/images/Top-half-screenshot.PNG)
-[Screenshot of bottom half of the page](/module-1-challenge/assets/images/bottom-half-screenshot.PNG)
+[Screenshot of top half of the page](/assets/images/Top-half-screenshot.PNG)
+[Screenshot of bottom half of the page](/assets/images/bottom-half-screenshot.PNG)
 
 ## MIT License
 Copyright (c) [2021] [Collin Beisel]
