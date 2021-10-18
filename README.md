@@ -41,9 +41,9 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 Application's links all function correctly. - Done
 
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+Application's CSS selectors and properties are consolidated and organized to follow semantic structure. - Done
 
-Application's CSS file is properly commented.
+Application's CSS file is properly commented. - Done
 
 ## Deployment: 32%
 Application deployed at live URL.
