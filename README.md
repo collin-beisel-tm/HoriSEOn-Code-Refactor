@@ -8,7 +8,7 @@
 ## View the deployed application on GitHub here: 
 [https://collin-beisel-tm.github.io/module-1-challenge/]
 
-## View the GitGub repository for this application here: 
+## View the GitHub repository for this application here: 
 [https://github.com/collin-beisel-tm/module-1-challenge]
 
 
